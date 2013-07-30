@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalService", "GlobalService\GlobalService.csproj", "{B9E7C435-EC4C-4230-8BAE-D4668E9A6127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalAdmin", "GlobalAdmin\GlobalAdmin.csproj", "{2CD27E57-9C89-4C15-958D-AA4E3D6C197C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalInfraestructure", "GlobalInfraestructure\GlobalInfraestructure.csproj", "{1B76F1A7-FC14-4D2A-9E22-399AE7C49DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalDomain", "GlobalDomain\GlobalDomain.csproj", "{D89C431D-633F-4CAC-991F-5AEFB42090CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalRepository", "GlobalRepository\GlobalRepository.csproj", "{DFB53CF4-FCBB-4C8A-98FB-F5DA75F134A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E7C435-EC4C-4230-8BAE-D4668E9A6127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E7C435-EC4C-4230-8BAE-D4668E9A6127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E7C435-EC4C-4230-8BAE-D4668E9A6127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E7C435-EC4C-4230-8BAE-D4668E9A6127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD27E57-9C89-4C15-958D-AA4E3D6C197C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD27E57-9C89-4C15-958D-AA4E3D6C197C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD27E57-9C89-4C15-958D-AA4E3D6C197C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD27E57-9C89-4C15-958D-AA4E3D6C197C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B76F1A7-FC14-4D2A-9E22-399AE7C49DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B76F1A7-FC14-4D2A-9E22-399AE7C49DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B76F1A7-FC14-4D2A-9E22-399AE7C49DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B76F1A7-FC14-4D2A-9E22-399AE7C49DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89C431D-633F-4CAC-991F-5AEFB42090CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89C431D-633F-4CAC-991F-5AEFB42090CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89C431D-633F-4CAC-991F-5AEFB42090CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89C431D-633F-4CAC-991F-5AEFB42090CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB53CF4-FCBB-4C8A-98FB-F5DA75F134A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB53CF4-FCBB-4C8A-98FB-F5DA75F134A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB53CF4-FCBB-4C8A-98FB-F5DA75F134A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB53CF4-FCBB-4C8A-98FB-F5DA75F134A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
